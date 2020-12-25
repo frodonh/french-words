@@ -68,11 +68,15 @@ The following tags are used:
 ## Fun facts
 It's funny to play with regular expressions!
 
-- The longest word is « parabutoxyphénylacéthydroxamiques », which is an adjective by the way :-)
-- The latter is also the word with the most vowels and the most consonants, with 15 vowels and 18 consonants.
-- 2033 words contain each of the vowels a, e, i, o, u and y. One of the shortest one is « rougeoyai ».
+- The longest word is « parabutoxyphénylacéthydroxamiques » with 33 letters, which is an adjective by the way :-). The longest noun is « œsogastroduodénofibroscopies » with 28 letters. The longest verb is « déconstitutionnaliseraient » with 26 letters.
+- The former is also the word with the most vowels and the most consonants, with 15 vowels and 18 consonants.
+- The former is also the word with the greatest number of different letters. It has 20 different letters (or 19 if we consider 'é' and 'e' to be the same letter).
+- If we exclude technical (chemical or medical) words, the longest words are « interdépartementalisations », « déconstitutionnaliseraient », « déconstitutionnalisassions », « déconstitutionnalisassions », « désinstitutionnaliseraient » and « désinstitutionnalisassions » with 26 letters.
+- 2033 words contain each of the vowels a, e, i, o, u and y. One of the shortest ones is « rougeoyai ».
 - There are 41 strict palindroms (with respect to the accents) or 68 loose palindroms (accented versions of characters are considered the same as the original character) with 5 letters or more, the longest of which are « essayasse » and « ressasser ».
 - The word « hérédodégénérescence » is the one with one letter repeated most often. There are 8 e in this word. If we take the accents into account, the record is held by several words with 7 s, like « assassinasses », « ressassasses », « saussuritisasses », « désassaisonnasses »...
-- The most frequent words are in this order: « de », « la », « et », « à », « le », « il », « les », « un », « l' », « d' ».
-- The most frequent nouns are in this order: « temps », « fois », « yeux », « tête », « homme », « vie », « jour », « main », « mère », « monde », « père », « chose », « femme ».
-- The most frequent adjectives are in this order: « même », « autre », « petit », « grand », « petite », « seul », « jeune », « bon », « sûr », « seule », « vrai », « première », « bonne », « vieux », « beau ».
+- 7 words of 14 letters are made of only different letters : « ancylotheriums », « cryptogamiques », « cylindromateux », « gymnoblastique », « hydnocarpiques », « stylographique », and « xylographiques ». If we consider that an accented version of the letter is a different letter than the original version, the word « hydromagnétiques » has 16 different letters.
+- The most frequently-used words are in this order: « de », « la », « et », « à », « le », « il », « les », « un », « l' », « d' ».
+- The most frequently-used nouns are in this order: « temps », « fois », « yeux », « tête », « homme », « vie », « jour », « main », « mère », « monde », « père », « chose », « femme ».
+- The most frequently-used adjectives are in this order: « même », « autre », « petit », « grand », « petite », « seul », « jeune », « bon », « sûr », « seule », « vrai », « première », « bonne », « vieux », « beau ».
+- If we exclude technical (chemical or medical) words, the word which is worth the greatest amount of points at Scrabble (by summing up the values of its letters, and checking if no letter is used more than the number of its tokens in the game) is « déshypothéqueriez » with 50 points. If we limit ourselves to words with 7 letters or less, the record is held by « whiskys » with 37 points. The words with the greatest ratio of points per number of letters are « yak », « wok », « wax » and « kyu ».
